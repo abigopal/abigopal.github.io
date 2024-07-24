@@ -4,26 +4,22 @@
     <title>Abi Gopal on Abinand Gopal</title>
     <link>https://abigopal.github.io/</link>
     <description>Recent content in Abi Gopal on Abinand Gopal</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://abigopal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://abigopal.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
       <link>https://abigopal.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://abigopal.github.io/research/</guid>
-      <description>Publications Academic articles   A fast procedure for the construction of quadrature formulas for bandlimited functions. A. Gopal, V. Rokhlin Applied and Computational Harmonic Analysis, 2023   Efficient algorithms for computing rank-revealing factorizations on a GPU N. Heavner, C. Chao, A. Gopal, P.-G. Martinsson Numerical Linear Algebra with Applications, 2023   Broadband recursive skeletonization A. Gopal, P.-G. Martinsson Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2020+1: Selected Papers from the ICOSAHOM Conference, Vienna, Austria, 2022   An accelerated, high-order accurate direct solver for the Lippmann&amp;#8211;Schwinger equation for acoustic scattering in the plane A.</description>
+      <description>Publications Academic articles A fast procedure for the construction of quadrature formulas for bandlimited functions. A. Gopal, V. Rokhlin Applied and Computational Harmonic Analysis, 2023 Efficient algorithms for computing rank-revealing factorizations on a GPU N. Heavner, C. Chao, A. Gopal, P.-G. Martinsson Numerical Linear Algebra with Applications, 2023 Broadband recursive skeletonization A. Gopal, P.-G. Martinsson Spectral and High Order Methods for Partial Differential Equations ICOSAHOM 2020+1: Selected Papers from the ICOSAHOM Conference, Vienna, Austria, 2022 An accelerated, high-order accurate direct solver for the Lippmann&amp;#8211;Schwinger equation for acoustic scattering in the plane A.</description>
     </item>
-    
     <item>
       <title>Teaching</title>
       <link>https://abigopal.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://abigopal.github.io/teaching/</guid>
-      <description>Yale University I was the lecturer for the following courses:
- Spring 2024: AMTH 160 Structure of Networks Fall 2023: MATH 244 Discrete Mathematics Spring 2023: AMTH 160 Structure of Networks Fall 2022: MATH 246 Ordinary Differential Equations Spring 2022: MATH 222 Linear Algebra with Applications Fall 2021: MATH 112 Calculus of One Variable I   University of Oxford I was a class tutor for C6.1 Numerical Linear Algebra and a teaching assistant for C6.</description>
+      <description>Yale University I was the lecturer for the following courses:&#xA;Spring 2024: AMTH 160 Structure of Networks Fall 2023: MATH 244 Discrete Mathematics Spring 2023: AMTH 160 Structure of Networks Fall 2022: MATH 246 Ordinary Differential Equations Spring 2022: MATH 222 Linear Algebra with Applications Fall 2021: MATH 112 Calculus of One Variable I University of Oxford I was a class tutor for C6.1 Numerical Linear Algebra and a teaching assistant for C6.</description>
     </item>
-    
   </channel>
 </rss>
